@@ -1,0 +1,14 @@
+C:\Users\soon9\OneDrive\바탕 화면\C# Study\CS_Data_Struct\CS_Data_Struct\bin\Debug\netcoreapp3.1\CS_Data_Struct.exe
+C:\Users\soon9\OneDrive\바탕 화면\C# Study\CS_Data_Struct\CS_Data_Struct\bin\Debug\netcoreapp3.1\CS_Data_Struct.deps.json
+C:\Users\soon9\OneDrive\바탕 화면\C# Study\CS_Data_Struct\CS_Data_Struct\bin\Debug\netcoreapp3.1\CS_Data_Struct.runtimeconfig.json
+C:\Users\soon9\OneDrive\바탕 화면\C# Study\CS_Data_Struct\CS_Data_Struct\bin\Debug\netcoreapp3.1\CS_Data_Struct.runtimeconfig.dev.json
+C:\Users\soon9\OneDrive\바탕 화면\C# Study\CS_Data_Struct\CS_Data_Struct\bin\Debug\netcoreapp3.1\CS_Data_Struct.dll
+C:\Users\soon9\OneDrive\바탕 화면\C# Study\CS_Data_Struct\CS_Data_Struct\bin\Debug\netcoreapp3.1\CS_Data_Struct.pdb
+C:\Users\soon9\OneDrive\바탕 화면\C# Study\CS_Data_Struct\CS_Data_Struct\obj\Debug\netcoreapp3.1\CS_Data_Struct.csproj.AssemblyReference.cache
+C:\Users\soon9\OneDrive\바탕 화면\C# Study\CS_Data_Struct\CS_Data_Struct\obj\Debug\netcoreapp3.1\CS_Data_Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soon9\OneDrive\바탕 화면\C# Study\CS_Data_Struct\CS_Data_Struct\obj\Debug\netcoreapp3.1\CS_Data_Struct.AssemblyInfoInputs.cache
+C:\Users\soon9\OneDrive\바탕 화면\C# Study\CS_Data_Struct\CS_Data_Struct\obj\Debug\netcoreapp3.1\CS_Data_Struct.AssemblyInfo.cs
+C:\Users\soon9\OneDrive\바탕 화면\C# Study\CS_Data_Struct\CS_Data_Struct\obj\Debug\netcoreapp3.1\CS_Data_Struct.csproj.CoreCompileInputs.cache
+C:\Users\soon9\OneDrive\바탕 화면\C# Study\CS_Data_Struct\CS_Data_Struct\obj\Debug\netcoreapp3.1\CS_Data_Struct.dll
+C:\Users\soon9\OneDrive\바탕 화면\C# Study\CS_Data_Struct\CS_Data_Struct\obj\Debug\netcoreapp3.1\CS_Data_Struct.pdb
+C:\Users\soon9\OneDrive\바탕 화면\C# Study\CS_Data_Struct\CS_Data_Struct\obj\Debug\netcoreapp3.1\CS_Data_Struct.genruntimeconfig.cache
